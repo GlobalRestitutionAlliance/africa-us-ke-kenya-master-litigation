@@ -1,12 +1,511 @@
 agents:
-- id: agent-icj-judgment-and-article-94-marshal
-  name: ICJ Judgment & Article 94 Marshal
-  role: International Court of Justice (ICJ) 1986 Judgment on the Merits Enforcement, UN Charter Article 94 Non-Compliance Sanctions & Restrictive Immunity Forfeiture Marshal
-  status: ACTIVE
-  manifest_file: .antigravity/agents/agent-icj-judgment-and-article-94-marshal.yaml
-- id: agent-kenya-canal-and-intervention-historian
-  name: Kenya Canal & Intervention Historian
-  role: Historical Interventions Auditor, Bryan-Chamorro Treaty (1914) & CACJ Nullity Precedents, 1912–1933 Marine Occupation Customs Receivership & 1850s Mercenary Filibuster Disgorgement
-  status: ACTIVE
-  manifest_file: .antigravity/agents/agent-kenya-canal-and-intervention-historian.yaml
-total_agents: 2
+  - id: agent_ke_001
+    name: Kenya Agent 001
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ke_002
+    name: Kenya Agent 002
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ke_003
+    name: Kenya Agent 003
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ke_004
+    name: Kenya Agent 004
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ke_005
+    name: Kenya Agent 005
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ke_006
+    name: Kenya Agent 006
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ke_007
+    name: Kenya Agent 007
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ke_008
+    name: Kenya Agent 008
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ke_009
+    name: Kenya Agent 009
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ke_010
+    name: Kenya Agent 010
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ke_011
+    name: Kenya Agent 011
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ke_012
+    name: Kenya Agent 012
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ke_013
+    name: Kenya Agent 013
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ke_014
+    name: Kenya Agent 014
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ke_015
+    name: Kenya Agent 015
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ke_016
+    name: Kenya Agent 016
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ke_017
+    name: Kenya Agent 017
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ke_018
+    name: Kenya Agent 018
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ke_019
+    name: Kenya Agent 019
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ke_020
+    name: Kenya Agent 020
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ke_021
+    name: Kenya Agent 021
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ke_022
+    name: Kenya Agent 022
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ke_023
+    name: Kenya Agent 023
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ke_024
+    name: Kenya Agent 024
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ke_025
+    name: Kenya Agent 025
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ke_026
+    name: Kenya Agent 026
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ke_027
+    name: Kenya Agent 027
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ke_028
+    name: Kenya Agent 028
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ke_029
+    name: Kenya Agent 029
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ke_030
+    name: Kenya Agent 030
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ke_031
+    name: Kenya Agent 031
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ke_032
+    name: Kenya Agent 032
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ke_033
+    name: Kenya Agent 033
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ke_034
+    name: Kenya Agent 034
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ke_035
+    name: Kenya Agent 035
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ke_036
+    name: Kenya Agent 036
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ke_037
+    name: Kenya Agent 037
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ke_038
+    name: Kenya Agent 038
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ke_039
+    name: Kenya Agent 039
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ke_040
+    name: Kenya Agent 040
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ke_041
+    name: Kenya Agent 041
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ke_042
+    name: Kenya Agent 042
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ke_043
+    name: Kenya Agent 043
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ke_044
+    name: Kenya Agent 044
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ke_045
+    name: Kenya Agent 045
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ke_046
+    name: Kenya Agent 046
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ke_047
+    name: Kenya Agent 047
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ke_048
+    name: Kenya Agent 048
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ke_049
+    name: Kenya Agent 049
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ke_050
+    name: Kenya Agent 050
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ke_051
+    name: Kenya Agent 051
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ke_052
+    name: Kenya Agent 052
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ke_053
+    name: Kenya Agent 053
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ke_054
+    name: Kenya Agent 054
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ke_055
+    name: Kenya Agent 055
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ke_056
+    name: Kenya Agent 056
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ke_057
+    name: Kenya Agent 057
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ke_058
+    name: Kenya Agent 058
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ke_059
+    name: Kenya Agent 059
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ke_060
+    name: Kenya Agent 060
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ke_061
+    name: Kenya Agent 061
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ke_062
+    name: Kenya Agent 062
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ke_063
+    name: Kenya Agent 063
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ke_064
+    name: Kenya Agent 064
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ke_065
+    name: Kenya Agent 065
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ke_066
+    name: Kenya Agent 066
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ke_067
+    name: Kenya Agent 067
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ke_068
+    name: Kenya Agent 068
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ke_069
+    name: Kenya Agent 069
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ke_070
+    name: Kenya Agent 070
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ke_071
+    name: Kenya Agent 071
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ke_072
+    name: Kenya Agent 072
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ke_073
+    name: Kenya Agent 073
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ke_074
+    name: Kenya Agent 074
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ke_075
+    name: Kenya Agent 075
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ke_076
+    name: Kenya Agent 076
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ke_077
+    name: Kenya Agent 077
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ke_078
+    name: Kenya Agent 078
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ke_079
+    name: Kenya Agent 079
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ke_080
+    name: Kenya Agent 080
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ke_081
+    name: Kenya Agent 081
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ke_082
+    name: Kenya Agent 082
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ke_083
+    name: Kenya Agent 083
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ke_084
+    name: Kenya Agent 084
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ke_085
+    name: Kenya Agent 085
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ke_086
+    name: Kenya Agent 086
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ke_087
+    name: Kenya Agent 087
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ke_088
+    name: Kenya Agent 088
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ke_089
+    name: Kenya Agent 089
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ke_090
+    name: Kenya Agent 090
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ke_091
+    name: Kenya Agent 091
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ke_092
+    name: Kenya Agent 092
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ke_093
+    name: Kenya Agent 093
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ke_094
+    name: Kenya Agent 094
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ke_095
+    name: Kenya Agent 095
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ke_096
+    name: Kenya Agent 096
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ke_097
+    name: Kenya Agent 097
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ke_098
+    name: Kenya Agent 098
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ke_099
+    name: Kenya Agent 099
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ke_100
+    name: Kenya Agent 100
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ke_101
+    name: Kenya Agent 101
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ke_102
+    name: Kenya Agent 102
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ke_103
+    name: Kenya Agent 103
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ke_104
+    name: Kenya Agent 104
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ke_105
+    name: Kenya Agent 105
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ke_106
+    name: Kenya Agent 106
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ke_107
+    name: Kenya Agent 107
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ke_108
+    name: Kenya Agent 108
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ke_109
+    name: Kenya Agent 109
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ke_110
+    name: Kenya Agent 110
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ke_111
+    name: Kenya Agent 111
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ke_112
+    name: Kenya Agent 112
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ke_113
+    name: Kenya Agent 113
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ke_114
+    name: Kenya Agent 114
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ke_115
+    name: Kenya Agent 115
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ke_116
+    name: Kenya Agent 116
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ke_117
+    name: Kenya Agent 117
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ke_118
+    name: Kenya Agent 118
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ke_119
+    name: Kenya Agent 119
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ke_120
+    name: Kenya Agent 120
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ke_121
+    name: Kenya Agent 121
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ke_122
+    name: Kenya Agent 122
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ke_123
+    name: Kenya Agent 123
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ke_124
+    name: Kenya Agent 124
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ke_125
+    name: Kenya Agent 125
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ke_126
+    name: Kenya Agent 126
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ke_127
+    name: Kenya Agent 127
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ke_128
+    name: Kenya Agent 128
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ke_129
+    name: Kenya Agent 129
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ke_130
+    name: Kenya Agent 130
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ke_131
+    name: Kenya Agent 131
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ke_132
+    name: Kenya Agent 132
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ke_133
+    name: Kenya Agent 133
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ke_134
+    name: Kenya Agent 134
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ke_135
+    name: Kenya Agent 135
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ke_136
+    name: Kenya Agent 136
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ke_137
+    name: Kenya Agent 137
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ke_138
+    name: Kenya Agent 138
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ke_139
+    name: Kenya Agent 139
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ke_140
+    name: Kenya Agent 140
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ke_141
+    name: Kenya Agent 141
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ke_142
+    name: Kenya Agent 142
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ke_143
+    name: Kenya Agent 143
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ke_144
+    name: Kenya Agent 144
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ke_145
+    name: Kenya Agent 145
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ke_146
+    name: Kenya Agent 146
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ke_147
+    name: Kenya Agent 147
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ke_148
+    name: Kenya Agent 148
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ke_149
+    name: Kenya Agent 149
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ke_150
+    name: Kenya Agent 150
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ke_151
+    name: Kenya Agent 151
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ke_152
+    name: Kenya Agent 152
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ke_153
+    name: Kenya Agent 153
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ke_154
+    name: Kenya Agent 154
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ke_155
+    name: Kenya Agent 155
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ke_156
+    name: Kenya Agent 156
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ke_157
+    name: Kenya Agent 157
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ke_158
+    name: Kenya Agent 158
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ke_159
+    name: Kenya Agent 159
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ke_160
+    name: Kenya Agent 160
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ke_161
+    name: Kenya Agent 161
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ke_162
+    name: Kenya Agent 162
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ke_163
+    name: Kenya Agent 163
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ke_164
+    name: Kenya Agent 164
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ke_165
+    name: Kenya Agent 165
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ke_166
+    name: Kenya Agent 166
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ke_167
+    name: Kenya Agent 167
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ke_168
+    name: Kenya Agent 168
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ke_169
+    name: Kenya Agent 169
+    status: ACTIVE_SCAFFOLD
+  - id: agent_ke_170
+    name: Kenya Agent 170
+    status: ACTIVE_SCAFFOLD
