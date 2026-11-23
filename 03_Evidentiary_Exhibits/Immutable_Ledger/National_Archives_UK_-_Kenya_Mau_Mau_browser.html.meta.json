@@ -1,0 +1,16 @@
+{
+  "url": "https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/kenya/",
+  "final_url": "https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/kenya/",
+  "title": "National Archives UK - Kenya Mau Mau",
+  "fetched_at": "2026-11-23T00:14:14.999107Z",
+  "http_status": "unknown_browser_outerhtml_capture",
+  "status_note": "Browser outerHTML capture; HTTP status not captured by eval fallback. Do not treat as authenticated or verified.",
+  "content_type": "text/html; browser-rendered",
+  "bytes": 38561,
+  "sha256": "f62f5cb470876a843c0444d8fdb9b45224cdb67652b4a879943600788f395b33",
+  "provenance": "browser-rendered-outerHTML",
+  "custodian": "OpenCode/browser-fallback",
+  "legal_review_status": "PENDING_LEGAL_REVIEW",
+  "capture_method": "opencode-browse-extension+eval.outerHTML",
+  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED"
+}
