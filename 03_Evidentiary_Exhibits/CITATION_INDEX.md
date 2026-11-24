@@ -1,6 +1,6 @@
 # Citation Index
 
-Rule: NO_VERIFIED_WITHOUT_LOCAL_HASHED_ARTIFACT. All entries PENDING_LEGAL_REVIEW unless explicitly verified through local hashed artifact + human sign-off.
+Rule: NO_VERIFIED_WITHOUT_LOCAL_HASHED_ARTIFACT. All PENDING_LEGAL_REVIEW.
 
 - CIT-0001: https://www.foia.gov/ | `03_Evidentiary_Exhibits/Immutable_Ledger/FOIA.gov.html` | `e6ec298fd07fc314...` | PENDING_LEGAL_REVIEW
 - CIT-0002: https://archive.org/ | `03_Evidentiary_Exhibits/Immutable_Ledger/Internet_Archive.html` | `329de0d85f690421...` | PENDING_LEGAL_REVIEW
@@ -18,13 +18,3 @@ Rule: NO_VERIFIED_WITHOUT_LOCAL_HASHED_ARTIFACT. All entries PENDING_LEGAL_REVIE
 - CIT-0014: https://www.archives.gov/ | `03_Evidentiary_Exhibits/Immutable_Ledger/US_National_Archives.html` | `b1be5889069b829d...` | PENDING_LEGAL_REVIEW
 - CIT-0015: https://en.wikisource.org/ | `03_Evidentiary_Exhibits/Immutable_Ledger/Wikisource.html` | `f1f02568e88c7f73...` | PENDING_LEGAL_REVIEW
 - CIT-0016: https://search.worldcat.org/ | `03_Evidentiary_Exhibits/Immutable_Ledger/WorldCat.html` | `b6854303a8a7e148...` | PENDING_LEGAL_REVIEW
-- CIT-0017: https://chroniclingamerica.loc.gov/ | `03_Evidentiary_Exhibits/Immutable_Ledger/Chronicling_America_LOC_browser.html` | `05c0f0a2c7e2533c...` | PENDING_LEGAL_REVIEW
-- CIT-0018: https://www.courtlistener.com/ | `03_Evidentiary_Exhibits/Immutable_Ledger/CourtListener_browser.html` | `8dffe6afccfb6c0b...` | PENDING_LEGAL_REVIEW
-- CIT-0019: https://babel.hathitrust.org/ | `03_Evidentiary_Exhibits/Immutable_Ledger/HathiTrust_Digital_Library_browser.html` | `aed41c07ad8df3ba...` | PENDING_LEGAL_REVIEW
-- CIT-0020: https://www.justia.com/ | `03_Evidentiary_Exhibits/Immutable_Ledger/Justia_browser.html` | `e5cfe97d067f02f1...` | PENDING_LEGAL_REVIEW
-- CIT-0021: https://www.loc.gov/item/?q=kenya+colonial+land | `03_Evidentiary_Exhibits/Immutable_Ledger/Library_of_Congress_-_Kenya_colonial_land_browser.html` | `edf34280aa6638f3...` | PENDING_LEGAL_REVIEW
-- CIT-0022: https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/kenya/ | `03_Evidentiary_Exhibits/Immutable_Ledger/National_Archives_UK_-_Kenya_Mau_Mau_browser.html` | `5c8d88b2142f8cb4...` | PENDING_LEGAL_REVIEW
-- CIT-0023: https://hansard.parliament.uk/ | `03_Evidentiary_Exhibits/Immutable_Ledger/UK_Parliament_Hansard_browser.html` | `97d65bce211ede44...` | PENDING_LEGAL_REVIEW
-- CIT-0024: https://digitallibrary.un.org/ | `03_Evidentiary_Exhibits/Immutable_Ledger/UN_Digital_Library_browser.html` | `0310344b2fbb1de4...` | PENDING_LEGAL_REVIEW
-- CIT-0025: https://www.ohchr.org/en/countries/kenya | `03_Evidentiary_Exhibits/Immutable_Ledger/UN_OHCHR_Kenya_browser.html` | `94e93b5e84d53d88...` | PENDING_LEGAL_REVIEW
-- CIT-0026: https://data.worldbank.org/country/kenya | `03_Evidentiary_Exhibits/Immutable_Ledger/World_Bank_Kenya_browser.html` | `41f3d514273f31b7...` | PENDING_LEGAL_REVIEW
